@@ -1,2 +1,3 @@
 0       string SCHOOL School data
-!:mime application/octet-stream
+!:mime school
+file -C -m school
